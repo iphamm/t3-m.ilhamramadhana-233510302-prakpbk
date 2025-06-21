@@ -1,7 +1,7 @@
 <template>
   <q-header elevated class="bg-primary text-white">
     <q-toolbar>
-      <q-toolbar-title class="flex items-center"> <q-avatar size="32px" class="q-mr-sm"> <img src="/public/logo.png" alt="Logo touchONE">
+      <q-toolbar-title class="flex items-center"> <q-avatar size="32px" class="q-mr-sm"> <img src="/logo.png" alt="Logo touchONE">
         </q-avatar>
 
         <router-link to="/" style="text-decoration: none; color: inherit;">
